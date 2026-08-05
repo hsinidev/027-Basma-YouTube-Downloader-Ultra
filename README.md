@@ -1,6 +1,5 @@
-# Basma YouTube Downloader Ultra (ID: `027`)
+# Basma YouTube Downloader Ultra
 
-[![Project ID](https://img.shields.io/badge/Project%20ID-027-blue.svg)](https://github.com/hsinidev/027-Basma-YouTube-Downloader-Ultra)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Developer](https://img.shields.io/badge/Developer-Hsini%20Mohamed-green.svg)](https://hsini.dev)
 
