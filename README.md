@@ -4,7 +4,7 @@
 [![Developer](https://img.shields.io/badge/Developer-Hsini%20Mohamed-green.svg)](https://hsini.dev)
 
 > **Project ID**: `027`  
-> **Repository**: [https://github.com/hsinidev/027-Basma-YouTube-Downloader-Ultra](https://github.com/hsinidev/027-Basma-YouTube-Downloader-Ultra)
+> **Repository**: [https://github.com/hsinidev/Basma-YouTube-Downloader-Ultra](https://github.com/hsinidev/Basma-YouTube-Downloader-Ultra)
 
 ---
 
@@ -38,10 +38,10 @@ Basma YouTube Downloader Ultra provides video and audio stream downloading from 
 ### Setup Instructions
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hsinidev/027-Basma-YouTube-Downloader-Ultra.git
+git clone https://github.com/hsinidev/Basma-YouTube-Downloader-Ultra.git
 
 # 2. Navigate to project directory
-cd 027-Basma-YouTube-Downloader-Ultra
+cd Basma-YouTube-Downloader-Ultra
 
 # 3. Install required dependencies
 pip install -r requirements.txt
@@ -59,7 +59,7 @@ python app.py
 - **Website**: [https://hsini.dev](https://hsini.dev)
 - **Email**: [contact@hsini.dev](mailto:contact@hsini.dev)
 - **GitHub Profile**: [https://github.com/hsinidev](https://github.com/hsinidev)
-- **Project Repo**: [https://github.com/hsinidev/027-Basma-YouTube-Downloader-Ultra](https://github.com/hsinidev/027-Basma-YouTube-Downloader-Ultra)
+- **Project Repo**: [https://github.com/hsinidev/Basma-YouTube-Downloader-Ultra](https://github.com/hsinidev/Basma-YouTube-Downloader-Ultra)
 
 ---
 
